@@ -1,2 +1,18 @@
 # discordSwagSystem
-Discord Bot Python 3.6
+Discord Bot SwagSystem
+
+--------------------------------
+
+Required:
+
+- Bot SwagHelper
+- Discord Token
+
+--------------------------------
+
+Features:
+
+- Big Ticket System
+- Giveaway System
+
+Python Version 3.6
